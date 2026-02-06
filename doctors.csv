@@ -1,0 +1,4 @@
+doctor_id,department,available_hours,booked_hours,utilization
+D1,Cardiology,40,34,85.0
+D2,Orthopedics,40,26,65.0
+D3,General Medicine,40,38,95.0

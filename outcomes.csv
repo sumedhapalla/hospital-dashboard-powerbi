@@ -1,0 +1,5 @@
+patient_id,outcome,readmitted
+P1,Recovered,No
+P2,Improved,No
+P3,Recovered,Yes
+P4,Transferred,No

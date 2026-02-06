@@ -1,0 +1,5 @@
+patient_id,age,gender,insurance,branch
+P1,45,M,Private,Hyderabad
+P2,32,F,Government,Bangalore
+P3,60,M,Private,Chennai
+P4,25,F,Private,Hyderabad
